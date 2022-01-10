@@ -4,6 +4,6 @@ Oddlab (Odds labels) is a deployable traffic engineering approach for ensuring t
 # Implementation
 Oddlab is a python program that runs on the Ryu controller and builds a multi-rooted K-4 fat-tree DCN using mininet as a real-time network emulator and the OpenFlow protocol 1.3. The testbed has 16 hosts connected to twenty-four-port OpenFlow switches, each of which comprises four pods with four core switches. To maintain connection precision in the mininet's real-time environment, the link capacity through the DCN is set to 10 Mbps.
 
-The work has been published as a paper in Ann. Telecommun. journal (Springer Nature).
+The work has been published as a paper in the Annals of Telecommunications journal (Springer Nature).
 
 Alawadi, A.H., Molnár, S. Oddlab: fault-tolerant aware load-balancing framework for data center networks. Ann. Telecommun. (2021). https://doi.org/10.1007/s12243-021-00898-0
