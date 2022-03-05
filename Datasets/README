@@ -1,4 +1,4 @@
-In Oddlab, we considered two different workloads: websearch  and cache jobs workloads [1]:
+In Oddlab, we considered two different workloads: websearch  and cache jobs workloads [1]:  Both workloads are collected and analyzed in the Intra-Datacenter network. In the web search dataset, the distribution ratios will be as follows: 
 In a web search, 33% of the data was less than 1 kilobyte, 93% was between 1 and 10 kilobytes, and the rest was between 10 and 300 kilobytes. The data size distribution for the cache workload was as follows: 18% of the data was less than 0.1 Kbyte, 38% was between 0.1 and 10 Kbyte, less than 90% was 1 Mbyte, and the remainder was less than 10 Mbyte.
 
 1. Roy, Arjun, et al. "Inside the social network's (datacenter) network." Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication. 2015.
